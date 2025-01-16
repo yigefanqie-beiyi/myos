@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "interrupt.h": "c",
+        "bitmap.h": "c",
+        "debug.h": "c",
+        "string.h": "c",
+        "print.h": "c",
+        "console.h": "c",
+        "sync.h": "c",
+        "thread.h": "c",
+        "memory.h": "c",
+        "mutex": "c",
+        "global.h": "c",
+        "list.h": "c",
+        "*.tcc": "c",
+        "cstdlib": "c",
+        "memory": "c",
+        "syscall.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "stdio-kernel.h": "c",
+        "super_block.h": "c",
+        "ide.h": "c",
+        "fork.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
